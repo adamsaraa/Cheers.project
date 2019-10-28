@@ -1,11 +1,11 @@
 .btn-green {
-    background-color: rgb(57, 174, 144);
-    background-color: rgba(57, 174, 144, 1);
+    background-color: rgb(242, 204, 74);
+    background-color: rgba(242, 204, 74, 1);
 }
 
 .btn-green:hover,
 .btn-green:focus {
-    background-color: rgba(57, 174, 144, 0.7);
+    background-color: rgba(245, 220, 136, 0.7);
     transform:scaleX(1.3)
     
 }
