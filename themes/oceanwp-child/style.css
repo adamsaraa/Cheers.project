@@ -11,7 +11,20 @@
  Text Domain:  oceanwpchild
 */
 
-#site-header {
-    background-color: #3ec1c2;
+
+div #site-header-inner .clr .container {
+    z-index: 9999;
     
+}
+
+.animateContainer {
+	position: relative;	
+}
+
+.animateContainer iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
